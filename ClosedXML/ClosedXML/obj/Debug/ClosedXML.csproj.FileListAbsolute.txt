@@ -1,0 +1,15 @@
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\bin\Debug\ClosedXML.exe.config
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\bin\Debug\ClosedXML.exe
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\bin\Debug\ClosedXML.pdb
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\bin\Debug\ClosedXML.dll
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\bin\Debug\ExcelNumberFormat.dll
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\bin\Debug\FastMember.dll
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\bin\Debug\System.IO.Packaging.dll
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\bin\Debug\ExcelNumberFormat.xml
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\obj\Debug\ClosedXML.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\obj\Debug\ClosedXML.csproj.CopyComplete
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\obj\Debug\ClosedXML.exe
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\obj\Debug\ClosedXML.pdb
+C:\Users\elian\source\repos\ClosedXML\ClosedXML\obj\Debug\ClosedXML.csprojAssemblyReference.cache
